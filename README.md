@@ -1,5 +1,5 @@
 
- Multi-Objective Optimization in Distributed Systems Using Game Theory  
+# Multi-Objective Optimization in Distributed Systems Using Game Theory  
 
 This repository contains the implementation of a **multi-objective optimization model** for coordinating distributed autonomous systems using **Nash equilibrium**. The project focuses on task allocation in drone networks, leveraging **game theory** for decentralized decision-making. The implementation is developed in MATLAB and includes various modifications and extensions of the base model.  
 
